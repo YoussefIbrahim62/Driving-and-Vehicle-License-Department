@@ -4,3 +4,6 @@ D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution
 D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - DataAccess Layer\obj\Debug\DVLD - DataAccess Layer.csproj.CoreCompileInputs.cache
 D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - DataAccess Layer\obj\Debug\DVLD - DataAccess Layer.dll
 D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - DataAccess Layer\obj\Debug\DVLD - DataAccess Layer.pdb
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - DataAccess Layer\bin\Debug\clsShared.dll
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - DataAccess Layer\bin\Debug\clsShared.pdb
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - DataAccess Layer\obj\Debug\DVLD - D.0AA2CC9C.Up2Date

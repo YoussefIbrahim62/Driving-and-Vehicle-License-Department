@@ -45,5 +45,11 @@
     <Compile Include="clsDataSettings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\clsShared\DVLD - SharedItems.csproj">
+      <Project>{97191887-f981-48d0-a94e-161742e44f05}</Project>
+      <Name>DVLD - SharedItems</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

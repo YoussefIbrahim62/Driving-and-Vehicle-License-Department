@@ -45,6 +45,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\clsShared\DVLD - SharedItems.csproj">
+      <Project>{97191887-f981-48d0-a94e-161742e44f05}</Project>
+      <Name>DVLD - SharedItems</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DVLD - DataAccess Layer\DVLD - DataAccess Layer.csproj">
       <Project>{c53414ed-8506-4276-ba33-f43050138fb0}</Project>
       <Name>DVLD - DataAccess Layer</Name>

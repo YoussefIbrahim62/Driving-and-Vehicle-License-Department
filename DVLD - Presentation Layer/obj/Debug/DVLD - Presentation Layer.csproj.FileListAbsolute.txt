@@ -14,3 +14,5 @@ D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution
 D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\obj\Debug\DVLD___Presentation_Layer.Form1.resources
 D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\bin\Debug\DVLD - DataAccess Layer.dll
 D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\bin\Debug\DVLD - DataAccess Layer.pdb
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\bin\Debug\clsShared.dll
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\bin\Debug\clsShared.pdb

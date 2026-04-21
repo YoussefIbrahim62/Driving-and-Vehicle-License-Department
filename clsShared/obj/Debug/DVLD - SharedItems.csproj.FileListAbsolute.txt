@@ -1,0 +1,6 @@
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\clsShared\bin\Debug\clsShared.dll
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\clsShared\bin\Debug\clsShared.pdb
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\clsShared\obj\Debug\DVLD - SharedItems.csproj.AssemblyReference.cache
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\clsShared\obj\Debug\DVLD - SharedItems.csproj.CoreCompileInputs.cache
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\clsShared\obj\Debug\clsShared.dll
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\clsShared\obj\Debug\clsShared.pdb

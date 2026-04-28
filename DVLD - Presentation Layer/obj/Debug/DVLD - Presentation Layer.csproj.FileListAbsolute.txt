@@ -11,8 +11,14 @@ D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution
 D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\obj\Debug\DVLD - Presentation Layer.exe
 D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\obj\Debug\DVLD - Presentation Layer.pdb
 D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\obj\Debug\DVLD - Presentation Layer.exe.config
-D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\obj\Debug\DVLD___Presentation_Layer.Form1.resources
 D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\bin\Debug\DVLD - DataAccess Layer.dll
 D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\bin\Debug\DVLD - DataAccess Layer.pdb
 D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\bin\Debug\clsShared.dll
 D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\bin\Debug\clsShared.pdb
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\obj\Debug\DVLD___Presentation_Layer.MainAppForm.resources
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\obj\Debug\DVLD___Presentation_Layer.TestForm.resources
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\obj\Debug\DVLD___Presentation_Layer.frmManagePeople.resources
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\obj\Debug\DVLD___Presentation_Layer.ctrlPersonCard.resources
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\obj\Debug\DVLD___Presentation_Layer.frmPersonDetails.resources
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\obj\Debug\DVLD___Presentation_Layer.ctrlAdd_EditPersonInfo.resources
+D:\My Projects\Project (21) Driving and Vehicle License Department\DVLD Solution\DVLD - Presentation Layer\obj\Debug\DVLD___Presentation_Layer.frmAdd_EditPerson.resources
